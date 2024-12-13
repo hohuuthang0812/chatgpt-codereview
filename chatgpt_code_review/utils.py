@@ -9,13 +9,13 @@ EXTENSION_TO_LANGUAGE_MAP = {
     ".c": "c",
     ".rb": "ruby",
     ".php": "php",
-    ".cs": "csharp",
+    # ".cs": "csharp",
     ".go": "go",
     ".swift": "swift",
     ".ts": "typescript",
-    ".rs": "rust",
-    ".kt": "kotlin",
-    ".m": "objective-c",
+    # ".rs": "rust",
+    # ".kt": "kotlin",
+    # ".m": "objective-c",
 }
 
 
