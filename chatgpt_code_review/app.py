@@ -30,9 +30,9 @@ def app():
 
         st.title("ChatGPT Code Review :rocket:")
 
-        with st.expander("About ChatGPT Code Review"):
-            st.markdown(about.about_section, unsafe_allow_html=True)
-            st.write("")
+        # with st.expander("About ChatGPT Code Review"):
+        #     st.markdown(about.about_section, unsafe_allow_html=True)
+        #     st.write("")
 
         default_repo_url = "https://github.com/JosephLenton/PHP-Error"
         repo_form = forms.RepoForm(default_repo_url)
