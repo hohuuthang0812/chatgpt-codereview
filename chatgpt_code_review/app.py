@@ -28,7 +28,7 @@ def app():
 
         session_state = st.session_state
 
-        st.title("ChatGPT Code Review :rocket:")
+        st.title("ChatGPT Code Review")
 
         # with st.expander("About ChatGPT Code Review"):
         #     st.markdown(about.about_section, unsafe_allow_html=True)
